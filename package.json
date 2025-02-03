@@ -1,0 +1,23 @@
+{
+  "name": "movie-station",
+  "version": "1.0.0",
+  "description": "A Website for Movies movies are available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lord-rudra-1/Movie-Station.git"
+  },
+  "author": "rudra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lord-rudra-1/Movie-Station/issues"
+  },
+  "homepage": "https://github.com/lord-rudra-1/Movie-Station#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.3",
+    "tailwindcss": "^4.0.3"
+  }
+}
