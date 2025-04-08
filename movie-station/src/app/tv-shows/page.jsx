@@ -1,10 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 
-export default function Home() {
+export default function tvshows() {
   return (
-    <div>Home
-      <Link href="/about">About</Link>
+    <div>TV SHOWS
     </div>
   );
 }
